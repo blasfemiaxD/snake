@@ -1,2 +1,2 @@
 # snake
-Código de Snake en JS escrito desde youtube, Autor Servet Gulnaroglu
+Código del juego Snake en JS escrito desde youtube, Autor Servet Gulnaroglu
