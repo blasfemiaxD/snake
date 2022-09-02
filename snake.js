@@ -67,7 +67,7 @@ var apple = new Apple();
 
 var canvasContext = canvas.getContext("2d");
 //canvasContext.fillStyle = 'green';
-//canvasContext.fillRect(10, 10, 100, 100)A
+//canvasContext.fillRect(10, 10, 100, 100)asd
 
 
 window.onload = ()=>{
